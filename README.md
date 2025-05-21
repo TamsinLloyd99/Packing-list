@@ -1,6 +1,6 @@
 # Packing List App
 
-A simple React app for managing your travel packing checklist. Add, toggle, and remove items as you plan your trips.
+A simple React app for managing your travel packing checklist that I worked on as part of the "Ultimate React" course by Jonas Schmedtmann. Add, toggle, and remove items as you plan your trips.
 
 ## 🚀 Features
 
@@ -53,6 +53,9 @@ Packing-list/
 ├── package.json
 └── README.md
 ```
+
+## Deployed link:
+react-travel-packing-list.netlify.app 
 
 ## 📄 License
 
