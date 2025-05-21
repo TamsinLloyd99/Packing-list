@@ -54,7 +54,7 @@ Packing-list/
 └── README.md
 ```
 
-## [Deployed link](react-travel-packing-list.netlify.app )
+## [Deployed App](https://react-travel-packing-list.netlify.app)
 
 
 ## 📄 License
